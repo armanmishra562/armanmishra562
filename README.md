@@ -1,8 +1,8 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=akm-engineer&label=Profile%20views&color=0f89b6&style=flat" alt="akm-engineer" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=armanmishra562&label=Profile%20views&color=0f89b6&style=flat" alt="armanmishra562" /> </p>
 
 <h1 align="center">
     <img align="left" src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ashish+Kumar+Mishra!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arman+Kumar+Mishra!;" />
 </h1>
 
 
@@ -19,19 +19,19 @@
 
 - 💬 Ask me about **MERN Stack, CSS, HTML, JavaScript**
 
-- 📫 How to reach me **ashishgk1999@gmail.com**
+- 📫 How to reach me **armanmishra.sae.it@gmail.com**
   
--  📄 Know about my experiences [Resume](https://drive.google.com/file/d/13jEhXcLE5LcfYBR8me0tjf68W96RubeL/view?usp=sharing) .
+-  📄 Know about my experiences [Resume](https://drive.google.com/file/d/16V837rWlUijfS4AokKAfd1jYuhw8jH9P/view?usp=sharing) .
 
 - ⚡ Fun fact **I absolutely love trekking**
 
 <br/>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-    <a href="mailto:ashishgk1999@gmail.com">
+    <a href="mailto:armanmishra.sae.it@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-    <a href="https://linkedin.com/in/akm-engineer"  target="_blank">
+    <a href="https://linkedin.com/in/armanmishra562"  target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </p>
@@ -59,9 +59,9 @@
 <br>
 
 <div align=center>
-    <img width=390  src="https://github-readme-streak-stats.herokuapp.com/?user=akm-engineer&theme=jolly&hide_border=false"> 
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=akm-engineer&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github">
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akm-engineer&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact"> 
+    <img width=390  src="https://github-readme-streak-stats.herokuapp.com/?user=armanmishra562&theme=jolly&hide_border=false"> 
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=armanmishra562&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github">
+    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanmishra562&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact"> 
 </div>
 
 <br/><br/>
@@ -71,7 +71,7 @@
 <br>
 
 <div align=center>
-    <img src="https://github-contributor-stats.vercel.app/api?username=akm-engineer&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
+    <img src="https://github-contributor-stats.vercel.app/api?username=armanmishra562&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
 </div>
 
 <br>
