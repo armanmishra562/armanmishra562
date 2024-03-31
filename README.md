@@ -67,14 +67,6 @@
 <br/><br/>
 <br/>
 
-<h2 align="center">🔝 Top Contributed Repo</h2>
-<br>
-
-<div align=center>
-    <img src="https://github-contributor-stats.vercel.app/api?username=armanmishra562&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
-</div>
-
-<br>
 
 
 <h3 align="center">
