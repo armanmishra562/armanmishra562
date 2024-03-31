@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently a **Fresher**
 
-- 🌱 I’m currently working on  **Hotel Booking Website**
+- 🌱 I’m currently working on  **PORTFOLIO WEBSITE**
 
 - 🤝 I’m looking for help in **getting opportunities in full-stack development**
 
@@ -40,7 +40,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <p align="center"> 
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,mysql,redux" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,mysql,redux,aws" />
 </p>
 
 <br/>
