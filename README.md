@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently working on  **PORTFOLIO WEBSITE**
 
-- 🤝 I’m looking for help in **getting opportunities in full-stack development**
+- 🤝 I’m looking for help in **getting opportunities in Full-Stack Development and Cloud Computing**
 
 - 💬 Ask me about **MERN Stack, CSS, HTML, JavaScript**
 
